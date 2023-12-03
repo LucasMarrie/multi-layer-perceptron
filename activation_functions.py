@@ -1,7 +1,3 @@
-"""
-File For Activation Functions
-"""
-
 import numpy as np;
 
 

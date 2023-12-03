@@ -1,8 +1,3 @@
-"""
-File For Loss Functions
-"""
-
-
 import numpy as np
 
 """

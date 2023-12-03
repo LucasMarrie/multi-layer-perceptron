@@ -1,7 +1,3 @@
-"""
-File for the MLP (Multi Layer Perceptron Class)
-"""
-
 import numpy as np
 from layers import FCLayer, ActivationLayer
 from loss_functions import loss_functions

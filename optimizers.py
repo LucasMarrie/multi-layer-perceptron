@@ -1,7 +1,3 @@
-"""
-File for the different Optimizers
-"""
-
 import numpy as np
 
 """

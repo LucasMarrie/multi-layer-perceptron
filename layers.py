@@ -1,7 +1,3 @@
-"""
-File For the Layer class of the MLP
-"""
-
 import numpy as np
 from activation_functions import activation_functions
 from optimizers import optimizers
